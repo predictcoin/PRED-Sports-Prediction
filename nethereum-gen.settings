@@ -1,0 +1,7 @@
+{
+    "projectName": "PREDSportsPrediction",
+    "namespace": "CROSportsPrediction.Contracts",
+    "lang": 0,
+    "autoCodeGen": true,
+    "projectPath": "../"
+}
